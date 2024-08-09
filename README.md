@@ -11,7 +11,7 @@ Consider working with a bike sharing company (our dataset).
 <li>Can we allocate more bikes in stations along this route Which are the most popular start stations?</li>
 <li>Do we need more bikes here Is there a difference in trip duration/length for different types of members?</li>
 <li>Is there a difference in trip duration/length by members based on rideable_type?</li>
-<li>Which hour of the day do people often take trips</li>
+<li>Which hour of the day do people often take trips?</li>
 </p>
 
 <p>I have tried to bring out answers to these few questions in this EDA section</p>
