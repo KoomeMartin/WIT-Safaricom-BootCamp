@@ -3,7 +3,7 @@ I will outline practical skills acquired in the WIT AI/ML  Boot Camp 2024
 
 <h3>EDA Training </h3>
 
-<p>We don't EDA as a 'ritual" but rather with intent to unearth patterns in data.</p>
+<p>We don't do EDA as a 'ritual" but rather with intent to unearth patterns in data.</p>
 Consider working with a bike sharing company (our dataset).
 <p>Lets assume we own the bike sharing company and we want to get insights that can drive value for our company. We can ask ourselves a couple of questions that we may need to answer from the data like:</p>
 <p>
