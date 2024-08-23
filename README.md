@@ -37,4 +37,4 @@ Consider working with a bike sharing company (our dataset).
 
 
 <h3>Resources and Credits</h3>
-<a href='https://github.com/louisteo9/recommendations-with-IBM'>Git Repo</a>
+<a href='https://github.com/louisteo9/recommendations-with-IBM'>Recommender System-with-IBM</a>
